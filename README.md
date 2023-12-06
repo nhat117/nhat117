@@ -26,5 +26,5 @@ Well-proficient in <img align="center" src="https://upload.wikimedia.org/wikiped
 * [Easy way to build your own SHORTEN URL WebApp with NextJS](https://medium.com/p/17ae9152a74f)
 * [Building a Pick-Me Game with Next.js and Google Sheets Integration API](https://medium.com/p/0418b27a49b9)
 
-You can also visit my website to know moẻ about me [Nhat BUI](https://portfolio-update-rho.vercel.app/)
+You can also visit my website to know more about me [Nhat BUI](https://portfolio-update-rho.vercel.app/)
 
