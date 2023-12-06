@@ -19,7 +19,6 @@ Well-proficient in <img align="center" src="https://upload.wikimedia.org/wikiped
 
 🚀 * 🚀 * 🚀 * 👩🏻‍🚀
 
-[![Emma github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=loanngo99&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My Recent PUBLICATION
 
@@ -29,13 +28,3 @@ Well-proficient in <img align="center" src="https://upload.wikimedia.org/wikiped
 
 You can also visit my website to know moẻ about me [Nhat BUI](https://portfolio-update-rho.vercel.app/)
 
-<details>
-  <summary>Licenses & certifications</summary>
-  
-  ## Licenses & certifications
-
-  |     |     |
-  | --- | --- |
-  | [![IT support](./images/imgs/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/b8062aec-7982-45f5-99ea-3aa5b41d4669)  | [![PM](./images/imgs/GCC_badge_PGM_1000x1000.png)](https://www.credly.com/badges/42a22304-3d12-49a1-a01a-689bd652b892)  | 
-  
-</details>
