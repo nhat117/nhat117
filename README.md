@@ -9,7 +9,7 @@
 - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" title = "ORCID" alt="" width="20" /> [Nhat Minh BUI](https://orcid.org/0009-0000-8532-7464)
 
 🖥️ I'm love developing all kind of software as well as building ML model. <br>
-Well-proficient in <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title = "Python" alt="" width="20" />,<img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-1024.png" title = "JAVA" alt="" width="20" />, <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title = "C/C++" alt="" width="20" />, <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" title ="PyTorch" alt="",height = "20"/>
+Well-proficient in <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title = "Python" alt="" width="20" />,<img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-1024.png" title = "JAVA" alt="" width="20" />, <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" title = "C/C++" alt="" width="20" />, <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" title ="PyTorch" alt="" height = "20"/>
 ✍️ I am also passionate about academic research. View all of my work on [ORCID](https://orcid.org/0009-0000-8532-7464).
 
 ## GitHub Streak Stats
