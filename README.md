@@ -11,7 +11,7 @@
 🖥️ I'm love developing all kind of software as well as building ML model. <br>
 Well-proficinece in Python, Java , KOTLIN, SwiftUI, C++/C 
 
-✍️ I am also passionate about academic research. View all of my work on ORCID[ORCID](https://orcid.org/0009-0000-8532-7464).
+✍️ I am also passionate about academic research. View all of my work on [ORCID](https://orcid.org/0009-0000-8532-7464).
 
 ## GitHub Streak Stats
 
